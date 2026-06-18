@@ -1,113 +1,73 @@
 <h1 align="center">Olá! Eu sou o Lincoln Martins 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?..." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1200&color=2563EB&center=true&vCenter=true&width=700&lines=Desenvolvedor+Back-end+em+forma%C3%A7%C3%A3o;Estudante+de+Desenvolvimento+de+Sistemas;Python+%7C+Flask+%7C+MySQL;Sempre+aprendendo+novas+tecnologias" />
 </p>
 
 ---
 
 ## 👨‍💻 Sobre mim
 
-- 🎓 Estudante do **Ensino Médio (SESI)**
-- 💻 Técnico em **Desenvolvimento de Sistemas (SENAI)**
-- 🚀 Em busca da minha primeira oportunidade como **Desenvolvedor**
-- 📦 Desenvolvendo um **Sistema de Almoxarifado** como projeto de TCC
-- 🌱 Estudando **Python, Flask, JavaScript e MySQL**
-- 🧠 Interesse em **Back-end, Banco de Dados e Inteligência Artificial**
+🎓 Estudante do Ensino Médio (SESI)
+
+💻 Técnico em Desenvolvimento de Sistemas (SENAI)
+
+🚀 Buscando minha primeira oportunidade como Desenvolvedor
+
+📦 Desenvolvendo um Sistema de Almoxarifado como projeto de TCC
+
+📚 Estudando Python, Flask, JavaScript e MySQL
+
+🧠 Interesse em Back-end, Banco de Dados e Inteligência Artificial
 
 ---
 
 ## 📊 Estatísticas
 
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=linco-777&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=linco-777&layout=compact&langs_count=8&theme=github_dark"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=linco-777&theme=github-dark"/>
-
-</div>
-
----
-
-## 💻 Tecnologias
-
-### 🚀 Linguagens
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,js,html,css" />
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=linco-777&show_icons=true&theme=github_dark&hide_border=true&locale=pt-br"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=linco-777&layout=compact&theme=github_dark&hide_border=true&locale=pt-br"/>
 </p>
 
-### ⚙️ Frameworks
-
-<p>
-<img src="https://skillicons.dev/icons?i=flask" />
-</p>
-
-### 🗄️ Banco de Dados
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql" />
-</p>
-
-### 🛠 Ferramentas
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=linco-777&theme=github-dark&hide_border=true"/>
 </p>
 
 ---
 
-## 🚀 Projetos em Destaque
+## 🚀 Tecnologias
 
-### 📦 Sistema de Almoxarifado
-
-Sistema desenvolvido utilizando **Python, Flask e MySQL**, permitindo:
-
-- Login de usuários
-- Cadastro de produtos
-- Controle de estoque
-- Movimentação de materiais
-- Banco de dados MySQL
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,flask,js,html,css,mysql,git,github,vscode"/>
+</p>
 
 ---
 
-### ✅ To-do List
+## 📂 Projetos
 
-Aplicação Web para gerenciamento de tarefas utilizando:
+Em breve você encontrará aqui os projetos que estou desenvolvendo durante meus estudos.
 
-- HTML
-- CSS
-- JavaScript
+🔹 Sistema de Almoxarifado (TCC)
 
----
+🔹 Lista de Tarefas
 
-### 💰 Controle Financeiro
+🔹 Controle Financeiro
 
-Projeto em Python para gerenciamento de receitas e despesas.
+🔹 Outros projetos serão adicionados conforme minha evolução.
 
 ---
 
-## 📈 Gráfico de Contribuições
+## 📈 Atividade
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=linco-777&theme=github-dark"/>
-
-</div>
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=linco-777&theme=github-dark&hide_border=true"/>
+</p>
 
 ---
 
-## 🌐 Contato
+## 📫 Contato
 
-<p align="left">
+<p align="center">
 
 <a href="mailto:llincolnolim@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -121,17 +81,10 @@ Projeto em Python para gerenciamento de receitas e despesas.
 
 ---
 
-<div align="center">
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=linco-777&style=for-the-badge&color=2563EB"/>
+</p>
 
-![](https://komarev.com/ghpvc/?username=linco-777&color=blue&style=for-the-badge)
-
-</div>
-
----
-
-<div align="center">
-
-### 💬 "Transformando aprendizado em projetos e projetos em experiência."
-
-</div>
-```
+<p align="center">
+<i>"A melhor forma de aprender é construir."</i>
+</p>
