@@ -1,7 +1,7 @@
 <h1 align="center">Olá! Eu sou o Lincoln Martins 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1200&color=2563EB&center=true&vCenter=true&width=700&lines=Desenvolvedor+Back-end+em+forma%C3%A7%C3%A3o;Estudante+de+Desenvolvimento+de+Sistemas;Python+%7C+Flask+%7C+MySQL;Sempre+aprendendo+novas+tecnologias" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1200&color=2563EB&center=true&vCenter=true&width=700&lines=Desenvolvedor+Front-end+em+forma%C3%A7%C3%A3o;Estudante+de+Desenvolvimento+de+Sistemas;Python+%7C+Flask+%7C+MySQL;Sempre+aprendendo+novas+tecnologias" />
 </p>
 
 ---
