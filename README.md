@@ -18,7 +18,7 @@
 
 📚 Estudando Python, Flask, JavaScript e MySQL
 
-🧠 Interesse em Back-end, Banco de Dados e Inteligência Artificial
+🧠 Interesse em Front-end, Banco de Dados e Inteligência Artificial
 
 ---
 
