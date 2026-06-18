@@ -49,10 +49,6 @@ Em breve você encontrará aqui os projetos que estou desenvolvendo durante meus
 
 🔹 Sistema de Almoxarifado (TCC)
 
-🔹 Lista de Tarefas
-
-🔹 Controle Financeiro
-
 🔹 Outros projetos serão adicionados conforme minha evolução.
 
 ---
