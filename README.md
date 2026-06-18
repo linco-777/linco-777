@@ -1,8 +1,7 @@
-```markdown
 <h1 align="center">Olá! Eu sou o Lincoln Martins 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Desenvolvedor+Back-end+em+Forma%C3%A7%C3%A3o;Estudante+de+Desenvolvimento+de+Sistemas;Python+%7C+Flask+%7C+MySQL;Sempre+aprendendo+novas+tecnologias" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?..." />
 </p>
 
 ---
